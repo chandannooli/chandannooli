@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandannooli
 - 👀 I’m interested in javascript, web devolopment and machine learning
-- 🌱 I’m currently learning Javascript, typescript and nodeJS
+- 🌱 I’m currently learning Javascript, nodeJS and python. 
 - 💞️ I’m looking to collaborate on web applications 
 - 📫 How to reach me Contact me on chandan.b.nooli@gmail.com
 
